@@ -5,11 +5,11 @@
 primaryColor = "#0088CC" # green
 
 # Background color for the main container.
-backgroundColor = "#FFFFFF" # sepia yellow
+backgroundColor = "#F0F1F5" # sepia yellow
 
 # Used as the background for most widgets. Examples of widgets with this background are st.sidebar,
 # st.text_input, st.date_input.
-secondaryBackgroundColor =  "#F0F1F5" # wheat  "#d7ab82" # yellow <-- not enough contrast
+secondaryBackgroundColor =  "#FFFFFF" # wheat  "#d7ab82" # yellow <-- not enough contrast
 
 # Font color for the page.
 textColor = "#1A1A1A" # grey
